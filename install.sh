@@ -12,3 +12,4 @@ add-apt-repository  "deb [arch=amd64] https://download.docker.com/linux/debian  
 apt-get update
 apt-get install -y docker-ce docker-ce-cli containerd.io
 apt-get install -y docker-compose build-essential firefox-esr
+savechanges myslax.sb
